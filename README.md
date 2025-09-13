@@ -65,3 +65,7 @@ frontend/
 │   ├── App.js      # Root component
 │   └── theme.js    # Theme configuration
 ```
+
+----
+
+### ------------This repository is my copy of SafeNav project------------------
