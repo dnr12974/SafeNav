@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic[email]
+python-jose
+passlib
+bcrypt==3.2.0
+pymongo
+motor
+googlemaps 
+polyline
+ultralytics
+scikit-learn
